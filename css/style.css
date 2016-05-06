@@ -658,16 +658,17 @@ body {
     overflow: auto;
     }
     .zag{
-       width: 100%;
+      width: 100%;
       height: 38px;
       padding: 0px; 
+      font-size:22px;
       text-align: center;
-      padding-bottom: 20px;
-       border: 1px solid grey;
+      padding-top: 5px;
+      border: 1px solid grey;
       background-color: #BC9E60;
       outline-style: double;
-       outline-color: grey;
-        color:#072163;
+      outline-color: grey;
+      color:#072163;
     }
      .econom{
       width: 100%;
@@ -690,12 +691,12 @@ body {
       vertical-align:top;
       text-align: center;
       width: 200px;
-      height: 35px;
+      height: 42px;
       border: 1px solid grey;
        background-image: url(../img/bg.png);
        color:#BC9E60;
       padding-bottom: 10px;
-      margin: 20px;
+      margin: 18px;
        outline-style: double;
        outline-color: #BC9E60;
      }
